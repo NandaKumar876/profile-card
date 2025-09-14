@@ -7,7 +7,7 @@ This project showcases a personal profile with an image, name, bio, and social m
 
 ## 📸 Preview
 
-![Profile Card Screenshot](./IMG_5399.PNG)
+https://profile-card-six-topaz.vercel.app/
 
 ---
 
